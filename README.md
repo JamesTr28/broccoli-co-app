@@ -1,7 +1,7 @@
 # Broccoli & Co. App
 Link: https://jamestr28.github.io/broccoli-co-app/
 
-A simple form web app made with ReactJs
+A simple form web app made with ReactJs.
 Email "usedemail@blinq.app" is hardcoded to trigger 400 error.
 
 ## Available Scripts
