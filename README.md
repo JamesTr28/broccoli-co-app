@@ -1,4 +1,4 @@
-# Broccoli & Co. App
+# Broccoli & Co. App ReactJs
 Link: https://jamestr28.github.io/broccoli-co-app/
 
 A simple form web app made with ReactJs.
